@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gsgloveboxsystemtechnikgmbh.shop/sitemap.xml
